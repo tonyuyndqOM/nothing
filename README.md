@@ -6,6 +6,6 @@
 
 > 7devices link
 
-[7devices](./7device.html)
+[7devices](./7devices.html)
 
 ### Using markmap
